@@ -1,6 +1,6 @@
-# Smart Buildings Database Management System
+# Smart Buildings
 
-A comprehensive database management system for monitoring and managing smart buildings, including structural integrity, environmental conditions, construction projects, and disaster response capabilities.
+A comprehensive database management system for monitoring and managing smart buildings, including structural integrity, environmental conditions, construction projects, and disaster response capabilities. This project is entirely implemented using **SQL (Structured Query Language)** with MySQL as the database management system.
 
 **_Note: The entire project content is in Italian._**
 
